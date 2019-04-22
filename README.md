@@ -1,6 +1,6 @@
 # Converter-Merger
 
-This is a facility for converting and/or merging video files *in bulk*, using FFmpeg (and a bit of Python).
+This is a facility for converting and/or merging video files **in bulk**, using FFmpeg (and a bit of Python).
 
 ## Getting Started
 
