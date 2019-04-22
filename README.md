@@ -6,7 +6,7 @@ This is a facility for converting and/or merging video files **in bulk**, using 
 
 ### Installation
 
-One will need to have FFmpeg and Python -- Python2 seems to be sufficient -- in order run the code here properly.
+One will need to have FFmpeg and Python &mdash; Python2 seems to be sufficient &mdash; in order run the code here properly.
 
 ### Running
 
@@ -16,4 +16,4 @@ You should then find the converted files in `.../converter-merger/convert/out` a
 
 ## Known Issues
 
-While perfectly safe -- any input files are untouched -- the merger portion of this facility can produced unpredictable, particularly when said input files are in different aspect ratios, etc.
+While perfectly safe &mdash; any input files are untouched &mdash; the merger portion of this facility can produced unpredictable, particularly when said input files are in different aspect ratios, etc.
