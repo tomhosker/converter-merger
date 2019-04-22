@@ -6,7 +6,7 @@ This is a facility for converting and/or merging video files **in bulk**, using 
 
 ### Installation
 
-One will need to have FFmpeg and Python &mdash; Python2 seems to be sufficient &mdash; in order run the code here properly.
+One will need to have FFmpeg and Python &mdash; Python2 seems to be sufficient &mdash; in order to run this code properly.
 
 ### Running
 
