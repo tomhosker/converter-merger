@@ -16,4 +16,4 @@ You should then find the converted files in `.../converter-merger/convert/out` a
 
 ## Known Issues
 
-While perfectly safe &mdash; any input files are untouched &mdash; the merger portion of this facility can produced unpredictable, particularly when said input files are in different aspect ratios, etc.
+While perfectly safe &mdash; any input files are untouched &mdash; the merger portion of this facility can produce unpredictable results, particularly when said input files are in different aspect ratios, etc.
